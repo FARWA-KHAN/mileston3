@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20211215/original/pngtree-blue-and-white-cartoon-paper-hand-drawn-back-to-school-education-picture-image_1459313.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: black;
+   
+}
+form{
+    max-width: 600px;
+    margin: auto;
+    border-radius: 8px;
+   border-width: 5px 5px 5px 5px;
+   
+  
+}
+legend{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+label{
+    display: block;
+}
+button{
+    display: block;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(178, 203, 204);
+}
+#resumeOutput{
+    max-width: 552px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: rgba(0, 0, 0, 0.418);
+
+}
+#resumeOutput h2{
+    color: rgb(0, 0, 0);
+}
